@@ -1,5 +1,25 @@
 ---
 title: Project Exbox Log
+tags: []
+categories: []
+date: 2024-05-10 10:00:10
+description:
+cover:
+banner:
+sticky:
+mermaid:
+katex:
+mathjax:
+topic: Exbox
+author:
+references:
+comments:
+indexing:
+breadcrumb:
+leftbar:
+rightbar:
+h1:
+type: tech
 ---
 
 ## Project Timeline
@@ -17,39 +37,30 @@ title: Project Exbox Log
   - [ ] [verified] scan QR to connect Wi-Fi 
 - [ ] Compass
   - [ ] [verified] real-time data
-  - [ ] gesture recognize
 - [ ] [verified] Steam 2FA
-- [ ] OTA
 
 <!-- node 2024 年 4 月 10 日 -->
-**Hardware status**: Unfinished
+
+**Hardware status:**
 
 - [x] V1.1 checked: screen, charging/switch circuit
 - [x] V2.0 checked: USB CDC, encoder
 
-**Software status**: Unfinished
+**Software status:**
 
 - [x] Status bar
 - [x] Main Page
-- [ ] Setting
-  - [ ] scan QR to connect Wi-Fi 
-- [ ] Compass
-  - [ ] real-time data
-  - [ ] gesture recognize
-- [ ] Steam 2FA
-- [ ] OTA
 
 <!-- node 2024 年 4 月 5 日 -->
-**Hardware status**: Unfinished
+
+**Hardware status:**
 
 - [x] V1.0 released
 
-**Software status**: Unfinished
+**Software status:**
 
-- [ ] Status bar
 - [x] Main Page
-- [ ] Setting
-- [ ] Compass
-- [ ] Steam 2FA
-- [ ] OTA
 {% endtimeline %}
+
+## Project url
+(unreleased)
