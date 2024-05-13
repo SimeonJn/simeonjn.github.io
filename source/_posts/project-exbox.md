@@ -1,5 +1,5 @@
 ---
-title: Project Exbox Log
+title: Project Exbox 项目记录
 tags: []
 categories: []
 date: 2024-05-10 10:00:10
@@ -22,7 +22,7 @@ h1:
 type: tech
 ---
 
-## Project Timeline
+## 时间线
 {% timeline %}
 <!-- node 2024 年 5 月 10 日 -->
 **Hardware status**: Unfinished
