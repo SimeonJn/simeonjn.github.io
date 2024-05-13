@@ -1,6 +1,6 @@
 ---
 title: Project Exbox 项目记录
-tags: [exbox]
+tags: [exbox,project]
 categories: []
 date: 2024-05-10 10:00:10
 description:

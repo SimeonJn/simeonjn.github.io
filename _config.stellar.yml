@@ -5,8 +5,12 @@ logo:
 article:
   type: tech # tech/story
   auto_cover: true
+  share: [wechat, email, link]
 
 tag_plugins:
   # {% image %}
   image:
     fancybox: false
+
+
+

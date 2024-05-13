@@ -1,6 +1,6 @@
 ---
 title: 优化和加速pip下载过程的几种方法
-tags: [tips]
+tags: [tips,pip]
 categories: []
 date: 2024-05-13 20:15:00
 description:

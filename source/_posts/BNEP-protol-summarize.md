@@ -1,6 +1,6 @@
 ---
 title: BNEP协议小结
-tags: [protocol]
+tags: [protocol,BNEP]
 date: 2024-05-14 00:00:00
 cover: /images/image-20240513205946689.png
 poster: 
@@ -8,6 +8,8 @@ poster:
   caption: Project EXBTN
   color: rgb(0, 122, 204)
 type: tech
+references:
+  - '[Bluetooth Network Encapsulation Protocol 1.0](https://www.bluetooth.org/docman/handlers/DownloadDoc.ashx?doc_id=6552)' 
 ---
 
 ## BNEP 概述
@@ -255,9 +257,3 @@ BNEP_FILTER_CONTROL数据包类型应按接收顺序进行处理。这允许蓝�
 ![BNEP_EXTENSION_CONTROL Extension Header](/images/image-20240513234941531.png)
 
 **...:** 前略
-
-
-
-
-[Bluetooth Network Encapsulation Protocol 1.0]: https://www.bluetooth.org/docman/handlers/DownloadDoc.ashx?doc_id=6552
-
