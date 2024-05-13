@@ -1,6 +1,6 @@
 ---
 title: Project Exbox 项目记录
-tags: []
+tags: [exbox]
 categories: []
 date: 2024-05-10 10:00:10
 description:
@@ -23,6 +23,9 @@ type: tech
 ---
 
 ## 时间线
+
+
+
 {% timeline %}
 <!-- node 2024 年 5 月 10 日 -->
 **Hardware status**: Unfinished

@@ -2,7 +2,11 @@ logo:
   icon: '/images/avatar.webp'
   subtitle: 'Do the right thing | Blog by Hexo'
 
-
 article:
   type: tech # tech/story
   auto_cover: true
+
+tag_plugins:
+  # {% image %}
+  image:
+    fancybox: false
