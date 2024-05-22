@@ -18,7 +18,6 @@ indexing:
 breadcrumb:
 leftbar:
 rightbar:
-h1:
 type: tech
 ---
 当使用pip安装Python包时，如果遇到下载速度慢的问题，可以尝试以下几种方法来优化和加速下载过程：
