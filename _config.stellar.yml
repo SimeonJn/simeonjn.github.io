@@ -6,6 +6,7 @@ article:
   type: tech # tech/story
   auto_cover: true
   share: [wechat, email, link]
+  auto_excerpt: 200
 
 tag_plugins:
   # {% image %}
