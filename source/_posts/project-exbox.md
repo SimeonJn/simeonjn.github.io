@@ -4,21 +4,12 @@ tags: [exbox,project]
 categories: []
 date: 2024-05-10 10:00:10
 description:
-cover:
-banner:
-sticky:
-mermaid:
-katex:
-mathjax:
+cover: /images/image-20240720113308609.png
+poster:
+  headline: Exbox 项目时间线
+  caption: Project Exbox
+
 topic: Exbox
-author:
-references:
-comments:
-indexing:
-breadcrumb:
-leftbar:
-rightbar:
-h1:
 type: tech
 ---
 

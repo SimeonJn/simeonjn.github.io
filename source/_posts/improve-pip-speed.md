@@ -3,21 +3,7 @@ title: 优化和加速pip下载过程的几种方法
 tags: [tips,pip]
 categories: []
 date: 2024-05-13 20:15:00
-description:
-cover:
-banner:
-sticky:
-mermaid:
-katex:
-mathjax:
-topic: 
-author:
-references:
-comments:
-indexing:
-breadcrumb:
-leftbar:
-rightbar:
+cover: /photos/IMG_20240128_165837.jpg
 type: tech
 ---
 当使用pip安装Python包时，如果遇到下载速度慢的问题，可以尝试以下几种方法来优化和加速下载过程：
@@ -29,7 +15,11 @@ type: tech
 ```shell
 	pip install -i https://mirrors.aliyun.com/pypi/simple/ <package_name>
 ```
+(感觉清华的镜像源快一些)
 
+```shell
+	pip install -i https://pypi.tuna.tsinghua.edu.cn/simple <package_name>
+```
 
 ## 2. 使用代理
 
