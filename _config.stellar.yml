@@ -13,5 +13,29 @@ tag_plugins:
   image:
     fancybox: false
 
+menubar:
+  columns: 4
+  items:
+    - id: post
+      theme: '#1BCDFC'
+      icon: /icons/gangbi.svg # 支持 svg/img 标签，可以定义在 icons.yml 文件中，也支持外部图片的 URL
+      title: 博客
+      url: /
 
+    - id: cookbook
+      theme: '#1BCDFC'
+      icon: /icons/shu.svg
+      title: 菜谱
+      url: /categories/cookbook/
 
+    - id: gallery
+      theme: '#1BCDFC'
+      icon: /icons/xiangce.svg
+      title: 相册
+      url: /categories/gallery/
+
+    - id: about
+      theme: '#1BCDFC'
+      icon: /icons/about.svg
+      title: 关于
+      url: /about/

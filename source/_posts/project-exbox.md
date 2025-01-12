@@ -15,7 +15,7 @@ type: tech
 
 ## 时间线
 
-
+<!-- more -->
 
 {% timeline %}
 <!-- node 2024 年 5 月 10 日 -->
